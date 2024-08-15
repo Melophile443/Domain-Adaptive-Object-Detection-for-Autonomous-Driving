@@ -1,3 +1,5 @@
+Improving Autonomous Driving Capabilities in Foggy Environments using 3 Phase Network fine-tuned for reduced latency.
+
 # Domain-Adaptive-Object-Detection-for-Autonomous-Driving
 Domain Adaptive Object Detection for  Autonomous Driving.
 
